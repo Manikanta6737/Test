@@ -1,10 +1,10 @@
 pipeline {
 
   environment {
-    PROJECT = "halodoc-fisclouds"
-    APP_NAME = "gceme"
+    PROJECT = "pro1-265115"
+    APP_NAME = "testing"
     FE_SVC_NAME = "${APP_NAME}-frontend"
-    CLUSTER = "gke-cicd"
+    CLUSTER = "jenkins"
     CLUSTER_ZONE = "us-central1-c"
     IMAGE_TAG = "gcr.io/${PROJECT}/${APP_NAME}:latest"
     JENKINS_CRED = "${PROJECT}"
@@ -30,12 +30,12 @@ spec:
     - cat
     tty: true
   - name: gcloud
-    image: us.gcr.io/halodoc-fisclouds/gcloud
+    image: us.gcr.io/pro1-265115/gcloud
     command:
     - cat
     tty: true
   - name: helm
-    image: us.gcr.io/halodoc-fisclouds/helm3
+    image: us.gcr.io/pro1-265115/helm3
     command:
     - cat
     tty: true
@@ -67,7 +67,7 @@ spec:
         container('helm') {
           sh """
           helm ls
-          gcloud container clusters get-credentials gke-apps --zone us-central1-c --project halodoc-fisclouds
+          gcloud container clusters get-credentials gke-apps --zone us-central1-c --project pro1-265115
           kubectl get pods --namespace default
           helm repo add stable https://kubernetes-charts.storage.googleapis.com/ 
           helm repo update  

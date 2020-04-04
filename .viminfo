@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1586001405,,"wq"
+|2,0,1586002580,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,60 @@
 # Registers:
 
 # File marks:
-'0  60  0  ~/Jenkinsfile
-|4,48,60,0,1586001405,"~/Jenkinsfile"
-'1  77  0  ~/Jenkinsfile
-|4,49,77,0,1586000805,"~/Jenkinsfile"
-'2  77  0  ~/Jenkinsfile
-|4,50,77,0,1586000805,"~/Jenkinsfile"
-'3  1  0  ~/sai
-|4,51,1,0,1586000750,"~/sai"
-'4  79  0  ~/testingmaven/Jenkinsfile
-|4,52,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+'0  60  31  ~/Jenkinsfile
+|4,48,60,31,1586002580,"~/Jenkinsfile"
+'1  38  35  ~/Jenkinsfile
+|4,49,38,35,1586002355,"~/Jenkinsfile"
+'2  38  35  ~/Jenkinsfile
+|4,50,38,35,1586002355,"~/Jenkinsfile"
+'3  81  2  ~/Jenkinsfile
+|4,51,81,2,1586002201,"~/Jenkinsfile"
+'4  81  2  ~/Jenkinsfile
+|4,52,81,2,1586002201,"~/Jenkinsfile"
+'5  81  2  ~/Jenkinsfile
+|4,53,81,2,1586002201,"~/Jenkinsfile"
+'6  81  2  ~/Jenkinsfile
+|4,54,81,2,1586002201,"~/Jenkinsfile"
+'7  60  0  ~/Jenkinsfile
+|4,55,60,0,1586001405,"~/Jenkinsfile"
+'8  60  0  ~/Jenkinsfile
+|4,56,60,0,1586001405,"~/Jenkinsfile"
+'9  60  0  ~/Jenkinsfile
+|4,57,60,0,1586001405,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  60  31  ~/Jenkinsfile
+|4,39,60,31,1586002580,"~/Jenkinsfile"
+-'  38  35  ~/Jenkinsfile
+|4,39,38,35,1586002416,"~/Jenkinsfile"
+-'  38  35  ~/Jenkinsfile
+|4,39,38,35,1586002355,"~/Jenkinsfile"
+-'  81  2  ~/Jenkinsfile
+|4,39,81,2,1586002320,"~/Jenkinsfile"
+-'  81  2  ~/Jenkinsfile
+|4,39,81,2,1586002320,"~/Jenkinsfile"
+-'  81  2  ~/Jenkinsfile
+|4,39,81,2,1586002201,"~/Jenkinsfile"
+-'  60  0  ~/Jenkinsfile
+|4,39,60,0,1586002097,"~/Jenkinsfile"
+-'  60  0  ~/Jenkinsfile
+|4,39,60,0,1586002097,"~/Jenkinsfile"
 -'  60  0  ~/Jenkinsfile
 |4,39,60,0,1586001405,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  77  0  ~/Jenkinsfile
+|4,39,77,0,1586000805,"~/Jenkinsfile"
+-'  77  0  ~/Jenkinsfile
+|4,39,77,0,1586000805,"~/Jenkinsfile"
+-'  77  0  ~/Jenkinsfile
+|4,39,77,0,1586000805,"~/Jenkinsfile"
 -'  77  0  ~/Jenkinsfile
 |4,39,77,0,1586000805,"~/Jenkinsfile"
 -'  77  0  ~/Jenkinsfile
@@ -55,6 +93,62 @@
 |4,39,1,0,1586000750,"~/sai"
 -'  1  0  ~/sai
 |4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
 -'  79  0  ~/testingmaven/Jenkinsfile
 |4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
 -'  79  0  ~/testingmaven/Jenkinsfile
@@ -71,35 +165,109 @@
 |4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
 -'  79  0  ~/testingmaven/Jenkinsfile
 |4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
--'  1  0  ~/testingmaven/Jenkinsfile
-|4,39,1,0,1585935253,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  79  0  ~/testingmaven/Jenkinsfile
+|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1586001401	0
-	"	60	0
-	^	60	0
-	.	81	2
+	*	1586002576	0
+	"	60	31
+	^	60	32
+	.	70	101
 	+	77	0
 	+	81	4
 	+	82	0
 	+	81	3
 	+	81	2
+	+	33	24
+	+	38	21
+	+	33	21
+	+	38	36
+	+	7	21
+	+	4	25
+	+	5	22
+	+	70	101
 
 > ~/sai
 	*	1586000747	0

@@ -30,7 +30,7 @@ spec:
     - cat
     tty: true
   - name: gcloud
-    image: us.gcr.io/pro1-265115/gcloud11
+    image: us.gcr.io/pro1-265115/gcloud
     command:
     - cat
     tty: true
@@ -56,9 +56,9 @@ spec:
     }
     stage('Build and push image with Container Builder') {
       steps {
-        container('gcloud11') {
-          sh "gcloud auth list" 
-          sh "PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} ."
+        container('gcloud') {
+          #sh "gcloud auth list" 
+          #sh "PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} ."
         }
       }
     }

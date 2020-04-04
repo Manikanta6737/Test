@@ -69,7 +69,7 @@ spec:
         container('helm') {
           sh """
           helm ls
-          gcloud container clusters get-credentials gke-apps --zone us-central1-c --project pro1-265115
+          gcloud container clusters get-credentials jenkins --zone us-central1-c --project pro1-265115
           kubectl get pods --namespace default
           helm repo add stable https://kubernetes-charts.storage.googleapis.com/ 
           helm repo update  

@@ -2,11 +2,11 @@ pipeline {
 
   environment {
     PROJECT = "pro1-265115"
-    APP_NAME = "testing"
+    APP_NAME = "gceme"
     FE_SVC_NAME = "${APP_NAME}-frontend"
     CLUSTER = "jenkins"
     CLUSTER_ZONE = "us-central1-c"
-    IMAGE_TAG = "us.gcr.io/${PROJECT}/${APP_NAME}:latest"
+    IMAGE_TAG = "gcr.io/${PROJECT}/${APP_NAME}:latest"
     JENKINS_CRED = "${PROJECT}"
   }
 
@@ -30,7 +30,7 @@ spec:
     - cat
     tty: true
   - name: gcloud
-    image: us.gcr.io/pro1-265115/gcloud
+    image: us.gcr.io/pro1-265115/gcloud11
     command:
     - cat
     tty: true
@@ -46,25 +46,25 @@ spec:
     stage('Test') {
       steps {
         container('golang') {
-          sh """
-           #ln -s `pwd` /go/src/sample-app
-           #cd /go/src/sample-app
-           #go test
+          #sh """
+            #ln -s `pwd` /go/src/sample-app
+            #cd /go/src/sample-app
+            #go test
           """
         }
       }
     }
     stage('Build and push image with Container Builder') {
       steps {
-        container('gcloud') {
-          #sh "gcloud auth list" 
-          #sh "PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} ."
+        container('gcloud11') {
+          sh "gcloud auth list" 
+          sh "PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} ."
         }
       }
     }
     stage('Deploy ') {
       steps {
-        container('helm') {
+        container('helm3') {
           sh """
           helm ls
           gcloud container clusters get-credentials gke-apps --zone us-central1-c --project pro1-265115
@@ -80,4 +80,3 @@ spec:
     }
   }
 }
-

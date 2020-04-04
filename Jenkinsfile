@@ -66,7 +66,7 @@ spec:
     }
     stage('Deploy ') {
       steps {
-        container('helm3') {
+        container('helm') {
           sh """
           helm ls
           gcloud container clusters get-credentials gke-apps --zone us-central1-c --project pro1-265115

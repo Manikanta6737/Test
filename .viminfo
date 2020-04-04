@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1586006980,,"wq"
+|2,0,1586007190,,"wq"
 :q
 |2,0,1586006537,,"q"
 :q!
@@ -29,40 +29,52 @@
 # Registers:
 
 # File marks:
-'0  84  1  ~/Jenkinsfile
-|4,48,84,1,1586006980,"~/Jenkinsfile"
-'1  77  10  ~/Jenkinsfile
-|4,49,77,10,1586006600,"~/Jenkinsfile"
-'2  75  10  ~/Jenkinsfile
-|4,50,75,10,1586006600,"~/Jenkinsfile"
-'3  84  0  ~/Jenkinsfile
-|4,51,84,0,1586006537,"~/Jenkinsfile"
-'4  82  0  ~/Jenkinsfile
-|4,52,82,0,1586006537,"~/Jenkinsfile"
-'5  82  0  ~/Jenkinsfile
-|4,53,82,0,1586006537,"~/Jenkinsfile"
-'6  84  0  ~/Jenkinsfile
-|4,54,84,0,1586005643,"~/Jenkinsfile"
+'0  69  22  ~/Jenkinsfile
+|4,48,69,22,1586007190,"~/Jenkinsfile"
+'1  84  1  ~/Jenkinsfile
+|4,49,84,1,1586006980,"~/Jenkinsfile"
+'2  84  1  ~/Jenkinsfile
+|4,50,84,1,1586006980,"~/Jenkinsfile"
+'3  77  10  ~/Jenkinsfile
+|4,51,77,10,1586006600,"~/Jenkinsfile"
+'4  75  10  ~/Jenkinsfile
+|4,52,75,10,1586006600,"~/Jenkinsfile"
+'5  77  10  ~/Jenkinsfile
+|4,53,77,10,1586006600,"~/Jenkinsfile"
+'6  75  10  ~/Jenkinsfile
+|4,54,75,10,1586006600,"~/Jenkinsfile"
 '7  84  0  ~/Jenkinsfile
-|4,55,84,0,1586005643,"~/Jenkinsfile"
+|4,55,84,0,1586006537,"~/Jenkinsfile"
 '8  82  0  ~/Jenkinsfile
-|4,56,82,0,1586005643,"~/Jenkinsfile"
+|4,56,82,0,1586006537,"~/Jenkinsfile"
 '9  82  0  ~/Jenkinsfile
-|4,57,82,0,1586005643,"~/Jenkinsfile"
+|4,57,82,0,1586006537,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  69  22  ~/Jenkinsfile
+|4,39,69,22,1586007190,"~/Jenkinsfile"
+-'  84  1  ~/Jenkinsfile
+|4,39,84,1,1586007175,"~/Jenkinsfile"
 -'  84  1  ~/Jenkinsfile
 |4,39,84,1,1586006980,"~/Jenkinsfile"
 -'  77  10  ~/Jenkinsfile
 |4,39,77,10,1586006705,"~/Jenkinsfile"
+-'  77  10  ~/Jenkinsfile
+|4,39,77,10,1586006705,"~/Jenkinsfile"
 -'  75  10  ~/Jenkinsfile
 |4,39,75,10,1586006600,"~/Jenkinsfile"
+-'  75  10  ~/Jenkinsfile
+|4,39,75,10,1586006600,"~/Jenkinsfile"
+-'  82  0  ~/Jenkinsfile
+|4,39,82,0,1586006546,"~/Jenkinsfile"
 -'  82  0  ~/Jenkinsfile
 |4,39,82,0,1586006546,"~/Jenkinsfile"
 -'  82  0  ~/Jenkinsfile
 |4,39,82,0,1586006537,"~/Jenkinsfile"
 -'  82  0  ~/Jenkinsfile
 |4,39,82,0,1586005643,"~/Jenkinsfile"
+-'  49  10  ~/Jenkinsfile
+|4,39,49,10,1586005624,"~/Jenkinsfile"
 -'  49  10  ~/Jenkinsfile
 |4,39,49,10,1586005624,"~/Jenkinsfile"
 -'  49  10  ~/Jenkinsfile
@@ -89,10 +101,14 @@
 |4,39,1,0,1586005422,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1586005422,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1586005422,"~/Jenkinsfile"
 -'  82  0  ~/Jenkinsfile
 |4,39,82,0,1586005406,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1586005352,"~/Jenkinsfile"
+-'  60  8  ~/Jenkinsfile
+|4,39,60,8,1586005116,"~/Jenkinsfile"
 -'  60  8  ~/Jenkinsfile
 |4,39,60,8,1586005116,"~/Jenkinsfile"
 -'  60  8  ~/Jenkinsfile
@@ -138,7 +154,13 @@
 -'  59  7  ~/Jenkinsfile
 |4,39,59,7,1586004207,"~/Jenkinsfile"
 -'  59  7  ~/Jenkinsfile
+|4,39,59,7,1586004207,"~/Jenkinsfile"
+-'  59  7  ~/Jenkinsfile
 |4,39,59,7,1586004134,"~/Jenkinsfile"
+-'  62  10  ~/Jenkinsfile
+|4,39,62,10,1586004110,"~/Jenkinsfile"
+-'  61  10  ~/Jenkinsfile
+|4,39,61,10,1586004110,"~/Jenkinsfile"
 -'  62  10  ~/Jenkinsfile
 |4,39,62,10,1586004110,"~/Jenkinsfile"
 -'  61  10  ~/Jenkinsfile
@@ -165,6 +187,8 @@
 |4,39,61,10,1586004110,"~/Jenkinsfile"
 -'  61  10  ~/Jenkinsfile
 |4,39,61,10,1586004007,"~/Jenkinsfile"
+-'  9  19  ~/Jenkinsfile
+|4,39,9,19,1586003976,"~/Jenkinsfile"
 -'  9  19  ~/Jenkinsfile
 |4,39,9,19,1586003976,"~/Jenkinsfile"
 -'  9  19  ~/Jenkinsfile
@@ -222,43 +246,19 @@
 -'  52  11  ~/Jenkinsfile
 |4,39,52,11,1586003248,"~/Jenkinsfile"
 -'  52  11  ~/Jenkinsfile
+|4,39,52,11,1586003248,"~/Jenkinsfile"
+-'  52  11  ~/Jenkinsfile
 |4,39,52,11,1586003063,"~/Jenkinsfile"
 -'  60  31  ~/Jenkinsfile
 |4,39,60,31,1586003013,"~/Jenkinsfile"
--'  60  31  ~/Jenkinsfile
-|4,39,60,31,1586003013,"~/Jenkinsfile"
--'  60  31  ~/Jenkinsfile
-|4,39,60,31,1586003013,"~/Jenkinsfile"
--'  60  31  ~/Jenkinsfile
-|4,39,60,31,1586003013,"~/Jenkinsfile"
--'  60  31  ~/Jenkinsfile
-|4,39,60,31,1586002580,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
--'  38  35  ~/Jenkinsfile
-|4,39,38,35,1586002416,"~/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1586006976	0
-	"	84	1
-	^	84	2
-	.	62	12
+	*	1586007187	0
+	"	69	22
+	^	69	23
+	.	69	23
 	+	79	0
 	+	83	4
 	+	84	0
@@ -305,6 +305,7 @@
 	+	63	5
 	+	61	5
 	+	62	12
+	+	69	23
 
 > ~/sai
 	*	1586000747	0

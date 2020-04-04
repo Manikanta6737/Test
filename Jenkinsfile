@@ -46,7 +46,7 @@ spec:
     stage('Test') {
       steps {
         container('golang') {
-          #sh """
+           sh """
             #ln -s `pwd` /go/src/sample-app
             #cd /go/src/sample-app
             #go test
@@ -79,4 +79,4 @@ spec:
       }
     }
   }
-}
+ }

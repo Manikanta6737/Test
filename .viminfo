@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1586003063,,"wq"
+|2,0,1586003408,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,36 @@
 # Registers:
 
 # File marks:
-'0  52  11  ~/Jenkinsfile
-|4,48,52,11,1586003063,"~/Jenkinsfile"
-'1  60  31  ~/Jenkinsfile
-|4,49,60,31,1586002580,"~/Jenkinsfile"
-'2  60  31  ~/Jenkinsfile
-|4,50,60,31,1586002580,"~/Jenkinsfile"
-'3  38  35  ~/Jenkinsfile
-|4,51,38,35,1586002355,"~/Jenkinsfile"
-'4  38  35  ~/Jenkinsfile
-|4,52,38,35,1586002355,"~/Jenkinsfile"
-'5  38  35  ~/Jenkinsfile
-|4,53,38,35,1586002355,"~/Jenkinsfile"
-'6  38  35  ~/Jenkinsfile
-|4,54,38,35,1586002355,"~/Jenkinsfile"
-'7  81  2  ~/Jenkinsfile
-|4,55,81,2,1586002201,"~/Jenkinsfile"
-'8  81  2  ~/Jenkinsfile
-|4,56,81,2,1586002201,"~/Jenkinsfile"
-'9  81  2  ~/Jenkinsfile
-|4,57,81,2,1586002201,"~/Jenkinsfile"
+'0  9  19  ~/Jenkinsfile
+|4,48,9,19,1586003408,"~/Jenkinsfile"
+'1  52  11  ~/Jenkinsfile
+|4,49,52,11,1586003063,"~/Jenkinsfile"
+'2  52  11  ~/Jenkinsfile
+|4,50,52,11,1586003063,"~/Jenkinsfile"
+'3  60  31  ~/Jenkinsfile
+|4,51,60,31,1586002580,"~/Jenkinsfile"
+'4  60  31  ~/Jenkinsfile
+|4,52,60,31,1586002580,"~/Jenkinsfile"
+'5  60  31  ~/Jenkinsfile
+|4,53,60,31,1586002580,"~/Jenkinsfile"
+'6  60  31  ~/Jenkinsfile
+|4,54,60,31,1586002580,"~/Jenkinsfile"
+'7  38  35  ~/Jenkinsfile
+|4,55,38,35,1586002355,"~/Jenkinsfile"
+'8  38  35  ~/Jenkinsfile
+|4,56,38,35,1586002355,"~/Jenkinsfile"
+'9  38  35  ~/Jenkinsfile
+|4,57,38,35,1586002355,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  9  19  ~/Jenkinsfile
+|4,39,9,19,1586003408,"~/Jenkinsfile"
+-'  52  11  ~/Jenkinsfile
+|4,39,52,11,1586003248,"~/Jenkinsfile"
 -'  52  11  ~/Jenkinsfile
 |4,39,52,11,1586003063,"~/Jenkinsfile"
+-'  60  31  ~/Jenkinsfile
+|4,39,60,31,1586003013,"~/Jenkinsfile"
 -'  60  31  ~/Jenkinsfile
 |4,39,60,31,1586003013,"~/Jenkinsfile"
 -'  60  31  ~/Jenkinsfile
@@ -58,7 +64,11 @@
 -'  38  35  ~/Jenkinsfile
 |4,39,38,35,1586002416,"~/Jenkinsfile"
 -'  38  35  ~/Jenkinsfile
+|4,39,38,35,1586002416,"~/Jenkinsfile"
+-'  38  35  ~/Jenkinsfile
 |4,39,38,35,1586002355,"~/Jenkinsfile"
+-'  81  2  ~/Jenkinsfile
+|4,39,81,2,1586002320,"~/Jenkinsfile"
 -'  81  2  ~/Jenkinsfile
 |4,39,81,2,1586002320,"~/Jenkinsfile"
 -'  81  2  ~/Jenkinsfile
@@ -83,6 +93,10 @@
 |4,39,1,0,1586001017,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1586001017,"~/Jenkinsfile"
+-'  77  0  ~/Jenkinsfile
+|4,39,77,0,1586000805,"~/Jenkinsfile"
 -'  77  0  ~/Jenkinsfile
 |4,39,77,0,1586000805,"~/Jenkinsfile"
 -'  77  0  ~/Jenkinsfile
@@ -225,36 +239,22 @@
 |4,39,1,0,1586000750,"~/sai"
 -'  1  0  ~/sai
 |4,39,1,0,1586000750,"~/sai"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
--'  79  0  ~/testingmaven/Jenkinsfile
-|4,39,79,0,1585935287,"~/testingmaven/Jenkinsfile"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
+-'  1  0  ~/sai
+|4,39,1,0,1586000750,"~/sai"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1586003060	0
-	"	52	11
-	^	52	12
-	.	52	12
+	*	1586003404	0
+	"	9	19
+	^	9	20
+	.	9	19
 	+	77	0
 	+	81	4
 	+	82	0
@@ -274,6 +274,7 @@
 	+	50	12
 	+	51	12
 	+	52	12
+	+	9	19
 
 > ~/sai
 	*	1586000747	0

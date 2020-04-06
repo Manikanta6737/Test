@@ -178,3 +178,94 @@ helm install cd stable/jenkins -f values.yaml
 printf $(kubectl get secret --namespace default cd-jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode);echo
 helm ls
 helm status cd
+sudo -i
+helm ls
+helm status cd
+printf $(kubectl get secret --namespace default cd-jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode);echo
+vi sai
+ls
+rm sai
+vi Jenkinsfile
+rm Jenkinsfile 
+vi Jenkinsfile
+git init
+git add .
+git commit -m "me"
+git remote add origin https://github.com/Manikanta6737/Test.git
+git push -u origin master
+cat Jenkinsfile 
+vi Jenkinsfile 
+cat Jenkinsfile 
+vi Jenkinsfile 
+git add .
+git commit -m "me"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "me"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+cat Jenkinsfile 
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+sudo docker pull kiwigrid/gcloud-kubectl-helm
+docker images
+docker tag 84bd8a754ace us.gcr.io/pro1-265115/gcloud11
+docker push us.gcr.io/pro1-265115/gcloud11
+vi Jenkinsfile 
+rm Jenkinsfile 
+vi Jenkinsfile
+clear
+vi Jenkinsfile
+cat Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+fit commit -m "m"
+git commit -m "m"
+git push -u origin master
+docker pull us.gcr.io/halodoc-fisclouds/gcloud
+docker images
+docker tag d2f9060f4c23 us.gcr.io/pro1-265115/gcloud
+docker push us.gcr.io/pro1-265115/gcloud
+vi Jenkinsfile 
+clear
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+ls
+vi Jenkinsfile 
+sudo -i
+ls
+vi Jenkinsfile 
+sudo -i
+docker pull rhinogram/node-8.11
+docker images
+docker tag c8737c597e84 us.gcr.io/pro1-265115/nodejs
+docker push us.gcr.io/pro1-265115/nodejs
+sudo su -

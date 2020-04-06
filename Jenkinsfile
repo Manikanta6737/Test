@@ -73,7 +73,7 @@ spec:
           kubectl get pods --namespace default
           helm repo add stable https://kubernetes-charts.storage.googleapis.com/ 
           helm repo update  
-          helm install sampleapp sampleapp/ --namespace default
+          helm install stable/cloudserver --namespace default
           helm ls
           kubectl get pods --namespace default
           """ 

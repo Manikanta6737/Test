@@ -47,9 +47,9 @@ spec:
       steps {
         container('golang') {
            sh """
-            #ln -s `pwd` /go/src/sample-app
-            #cd /go/src/sample-app
-            #go test
+            ln -s `pwd` /go/src/sample-app
+            cd /go/src/sample-app
+            go test
           """
         }
       }
@@ -58,8 +58,8 @@ spec:
       steps {
         container('gcloud') {
           sh """
-	    #gcloud auth list 
-            #PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} .
+	    gcloud auth list 
+            PYTHONUNBUFFERED=1 gcloud builds submit -t ${IMAGE_TAG} .
 	  """   
         }
       }
@@ -73,7 +73,7 @@ spec:
           kubectl get pods --namespace default
           helm repo add stable https://kubernetes-charts.storage.googleapis.com/ 
           helm repo update  
-          helm install cloudserver stable/cloudserver --namespace default
+          helm install sampleapp sampleapp/ --namespace default
           helm ls
           kubectl get pods --namespace default
           """ 

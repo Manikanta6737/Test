@@ -269,3 +269,17 @@ docker images
 docker tag c8737c597e84 us.gcr.io/pro1-265115/nodejs
 docker push us.gcr.io/pro1-265115/nodejs
 sudo su -
+ls
+cd ravindra/
+ls
+cd ..
+clear
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
+git add .
+git commit -m "m"
+git push -u origin master
+vi Jenkinsfile 
